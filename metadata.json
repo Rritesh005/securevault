@@ -1,0 +1,6 @@
+{
+  "name": "SecureVault",
+  "description": "Secure authentication pages and internship task showcase portfolio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
